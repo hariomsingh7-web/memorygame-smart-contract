@@ -75,7 +75,7 @@ memorygame
 
 https://lab.stellar.org/r/testnet/contract/CBFCU7CGCWCRSR2T2OSNRWAHB275DHHVBSU4HP3O4GEQCLARS4EYMPQI
 
-![Memory Game Screenshot](Screenshot 2026-03-15 at 12.56.18 PM.png)
+![Memory Game Screenshot](Screenshot%202026-03-15%20at%2012.56.18%E2%80%AFPM.png)
 
 
 ---
